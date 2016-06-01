@@ -2,7 +2,7 @@
 SEPARATOR = ";"
 
 LANG            = "en_US" # can be en_US, fr_FR, ...
-ANDROID_ID      =  "31DC096B90F4FFEC" # "31DC096B90F4FFEC"
+ANDROID_ID      =  "IMEI" # ""
 GOOGLE_LOGIN    =  "username@gmail.com" # "username@gmail.com"
 GOOGLE_PASSWORD =  "pword"
 AUTH_TOKEN      = None # "yyyyyyyyy"
